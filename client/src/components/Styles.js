@@ -113,7 +113,6 @@ export const useStyles = makeStyles({
     outline: "none",
     width: "min(95%, 950px)",
     height: "500px",
-    border: "2px solid #1a237e",
     borderRadius: 10,
     boxShadow: "2px 2px 10px #9fa8da",
     overflow: "scroll",
